@@ -1,0 +1,7 @@
+ChatGPT:
+aku lagi praktikum Object-Oriented Programming (OOP), materi yang udah ku pelajari Data & Data types, Variables & Constant, Writing Class, String & User Input, Array,  Control Structure: Branching & Repetition,  Class & Object Context. bantu kerjakan praktikum ini berdasarkan materi yg udah ku pelajarin. 
+pada tugas ini aku diminta untuk membuat sebuah sistem yang dapat mendukung operasional sehari-hari Laundry di IT Del. 
+
+sesuaikan ke file driver3
+
+harganya kok ga muncul
