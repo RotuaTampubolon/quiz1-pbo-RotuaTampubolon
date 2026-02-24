@@ -1,0 +1,12 @@
+ChatGPT:
+aku lagi praktikum Object-Oriented Programming (OOP), materi yang udah ku pelajari Data & Data types, Variables & Constant, Writing Class, String & User Input, Array,  Control Structure: Branching & Repetition,  Class & Object Context. bantu kerjakan praktikum ini berdasarkan materi yg udah ku pelajarin, sesuaikan dengan output yg diminta 
+
+ini gambarnya berat badan ucok (u) dan butet (b) yg memengarahi banyak makanan yg dimakan keduanya dengan persamaan u=2b
+
+ini untuk kode dan harga makanan nyaa, dan juga format output yg diharapkan
+
+sesuaikan lagi ke template inii
+
+sesuaikan ke format template ini
+
+kok error ginii
