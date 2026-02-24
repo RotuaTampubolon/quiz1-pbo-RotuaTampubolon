@@ -1,0 +1,6 @@
+ChatGPT:
+
+aku lagi praktikum Object-Oriented Programming (OOP), materi yang udah ku pelajari Data & Data types, Variables & Constant, Writing Class, String & User Input, Array,  Control Structure: Branching & Repetition,  Class & Object Context. bantu kerjakan praktikum ini berdasarkan materi yg udah ku pelajarin, sesuaikan dengan output yg diminta 
+
+program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+
